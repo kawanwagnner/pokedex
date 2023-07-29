@@ -12,6 +12,7 @@ body {
   text-align: center;
   background: linear-gradient(to bottom, #6ab7f5, #fff);
   min-height: 100vh;
+  position: relative;
 }
 
 main {
@@ -104,6 +105,8 @@ footer {
   padding: 10px;
   background-color: #222;
   color: #fff;
+  position: absolute;
+  bottom: 0;
 }
 
 footer a {
